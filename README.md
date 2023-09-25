@@ -1,6 +1,10 @@
-# Objetivo 🎯
+# Problema ❗
 
-Recebemos a demanda de ajudar o time de marketing a prever se um cliente vai cancelar o serviço ou não, pois eles estão notando um problema com o churn.
+Recebemos a demanda de ajudar o time de marketing a prever se um cliente vai cancelar o serviço ou não, pois eles estão notando um problema com o churn: basicamente, muitos clientes cancelando o serviço.
+
+Para resolver esse problema, a ideia do time de marketing é oferecer promoções para os clientes que provavelmente cancelarão o serviço, procurando evitar esse cancelamento.
+
+# Proposta 🎯
 
 Nossa proposta para esse problema é criar um modelo de machine learning capaz de fazer a classificação entre clientes que vão cancelar o serviço e os que não vão.
 
