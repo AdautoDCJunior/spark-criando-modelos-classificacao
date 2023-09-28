@@ -1,3 +1,5 @@
+![Badge](https://img.shields.io/badge/Status_curso-Finalizado-green)
+
 # Problema ❗
 
 Recebemos a demanda de ajudar o time de marketing a prever se um cliente vai cancelar o serviço ou não, pois eles estão notando um problema com o churn: basicamente, muitos clientes cancelando o serviço.
